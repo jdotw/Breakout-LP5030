@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name LEDs)(type KiCad)(uri /Users/jwilson/Source/Opinionated-Boom-1/PCB/Boom-1-Top/LEDs.pretty)(options "")(descr ""))
+  (lib (name fm-b2020rgba-hg)(type KiCad)(uri /Users/jwilson/Source/Opinionated-Boom-1/PCB/Boom-1-Top/fm-b2020rgba-hg.pretty)(options "")(descr ""))
+  (lib (name ControlBreakout)(type KiCad)(uri ${KIPRJMOD}/ControlBreakout.pretty)(options "")(descr ""))
+)

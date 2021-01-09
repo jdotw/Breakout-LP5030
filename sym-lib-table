@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name MP2359DJ)(type Legacy)(uri /Users/jwilson/Source/Opinionated-Boom-1/PCB/Boom-1-Top/MP2359DJ.lib)(options "")(descr ""))
+  (lib (name LP5030)(type Legacy)(uri /Users/jwilson/Source/Opinionated-Boom-1/PCB/Boom-1-Top/LP5030.lib)(options "")(descr ""))
+  (lib (name fm-b2020rgba-hg)(type Legacy)(uri /Users/jwilson/Source/Opinionated-Boom-1/PCB/Boom-1-Top/fm-b2020rgba-hg.lib)(options "")(descr ""))
+)
